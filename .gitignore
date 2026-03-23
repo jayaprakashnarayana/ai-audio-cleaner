@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+env/
+.env
+
+# Python caching
+__pycache__/
+*.pyc
+*.pyo
+
+# Audio files generated/uploaded
+*.wav
+*.mp3
+*.flac
+*.ogg
+
+# Mac specific
+.DS_Store
